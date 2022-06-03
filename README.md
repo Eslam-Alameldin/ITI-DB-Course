@@ -1,2 +1,2 @@
 # ITI-DB-Course
-This Repo contains tasks' solutions of the database course offered by ITI
+This Repo contains solutions to Labs of ITI-DB-Course
